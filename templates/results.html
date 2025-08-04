@@ -1,0 +1,55 @@
+<!-- templates/results.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Your Quiz Results</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Quiz Complete!</h1>
+      <p>
+        You got <strong>{{ score }}</strong> out of
+        <strong>{{ results|length }}</strong> correct — that's
+        <strong>{{ percent }}%</strong> 🎯
+      </p>
+
+      {% for r in results %}
+      <div class="result-block">
+        <h3>
+          Question {{ loop.index }} {% if r.multi %}<em
+            >(choose multiple answers)</em
+          >{% endif %}
+        </h3>
+        <p>{{ r.question }}</p>
+        <ul>
+          {% for a in r.answers %}
+          <li>
+            {% if a in r.selected and a in r.correct %} ✅
+            <strong>{{ a }}</strong>
+            <span style="color: green">(your answer & correct)</span> {% elif a
+            in r.selected and a not in r.correct %} ❌ <strong>{{ a }}</strong>
+            <span style="color: red">(your answer & incorrect)</span> {% elif a
+            in r.correct %} ✅ <strong>{{ a }}</strong>
+            <span style="color: blue">(correct but not selected)</span>
+            {% else %} {{ a }} {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        <p style="color: {{ 'green' if r.is_correct else 'red' }};">
+          {% if r.is_correct %}✔️ Correct!{% else %}❌ Incorrect.{% endif %}
+        </p>
+        <hr />
+      </div>
+      {% endfor %}
+
+      <a href="/retake">
+        <button style="padding: 10px 20px; font-size: 1em">
+          🔁 Retake the Quiz
+        </button>
+      </a>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+<!-- templates/quiz.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Quiz Time</title>
+    <link rel="stylesheet" href="/static/style.css" />
+    <script>
+      let timerMinutes = 30;
+      function startTimer() {
+        let duration = timerMinutes * 60;
+        let display = document.getElementById("timer");
+        let interval = setInterval(function () {
+          let minutes = parseInt(duration / 60, 10);
+          let seconds = parseInt(duration % 60, 10);
+
+          display.textContent = minutes + "m " + seconds + "s";
+          if (--duration < 0) {
+            clearInterval(interval);
+            alert("Time's up! Submitting...");
+            document.getElementById("quiz-form").submit();
+          }
+        }, 1000);
+      }
+
+      window.onload = startTimer;
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Take Your Quiz</h1>
+      <p id="timer">30m 0s</p>
+      <form method="post" action="/submit" id="quiz-form">
+        {% for q in questions %}
+        <div class="question-block">
+          <h3>
+            Question {{ loop.index }} {% if q.multi %}(choose multiple
+            answers){% endif %}
+          </h3>
+          <p>{{ q.question }}</p>
+          {% for a in q.answers %}
+          <label>
+            <input type="checkbox" name="q_{{ q.id }}[]" value="{{ a }}" />
+            {{ a }} </label
+          ><br />
+          {% endfor %}
+        </div>
+        <hr />
+        {% endfor %}
+        <button type="submit">Submit Quiz</button>
+      </form>
+    </div>
+  </body>
+</html>
