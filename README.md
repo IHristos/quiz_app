@@ -1,4 +1,4 @@
-#PSD Quiz Questions App Installation Guide
+# PSD Quiz Questions App Installation Guide
 1 ### Have python installed on your machine
   1 #### If you are not sure if python is installed, open powershell and type:
     ```bash
