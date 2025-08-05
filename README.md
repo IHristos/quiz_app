@@ -8,15 +8,15 @@
         ```bash
         python3 --version
         ```
-   2. Install python if it is not installed on your machine
+       2. Install python if it is not installed on your machine
         ```
         Official Python Download Link[](https://www.python.org/downloads/windows/)
         ```
-2. ### Install Flask on your machine through powershell
+3. ### Install Flask on your machine through powershell
     ```bash
     pip install Flask
     ```
-3. ### Open the project in your IDE and run
+4. ### Open the project in your IDE and run
   ```bash
   python app.py
   ```
