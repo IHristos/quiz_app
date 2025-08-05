@@ -68,7 +68,7 @@
           </h3>
           <p>{{ q.question }}</p>
           {% for a in q.answers %} {% set norm_a = a|lower|trim %}
-          <label>
+          <label class="answer-label">
             {% if q.multi %}
             <input type="checkbox" name="q_{{ q.id }}" value="{{ norm_a }}" />
             {% else %}

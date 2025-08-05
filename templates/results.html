@@ -37,11 +37,11 @@
       }
     </script>
     <div class="container">
-      <h1>Quiz Complete!</h1>
+      <h1>Quiz Completed!</h1>
       <p>
-        You got <strong>{{ score }}</strong> out of
-        <strong>{{ results|length }}</strong> correct — that's
-        <strong>{{ percent }}%</strong> 🎯
+        You got&nbsp;<strong>{{ score }}</strong>&nbsp;out of&nbsp;
+        <strong>{{ results|length }}</strong>&nbsp;correct — that's&nbsp;
+        <strong>{{ percent }}%</strong>&nbsp;🎯
       </p>
 
       {% for r in results %}
@@ -55,23 +55,43 @@
         <ul>
           {% for a in r.answers %}
           <li>
-            {% if a.is_selected and a.is_correct %} ✅
-            <strong>{{ a.text }}</strong>
-            <span style="color: green">(your answer & correct)</span> {% elif
-            a.is_selected and not a.is_correct %} ❌
-            <strong>{{ a.text }}</strong>
-            <span style="color: red">(your answer & incorrect)</span> {% elif
-            a.is_correct %} ✅ <strong>{{ a.text }}</strong>
-            <span style="color: blue">(correct but not selected)</span>
-            {% else %} {{ a.text }} {% endif %}
+            {% if a.is_selected and a.is_correct %}<span
+              style="
+                background-color: rgba(8, 255, 28, 0.155);
+                border-radius: 10px;
+              "
+            >
+              ✅ <strong>{{ a.text }}</strong>
+              <span style="color: green">(your answer)</span> </span
+            >{% elif a.is_selected and not a.is_correct %}<span
+              style="
+                background-color: rgba(255, 8, 8, 0.155);
+                border-radius: 10px;
+              "
+            >
+              ❌ {{ a.text }}
+              <span style="color: red">(your answer)</span></span
+            >
+            {% elif a.is_correct %}<span
+              style="
+                background-color: rgba(8, 255, 28, 0.155);
+                border-radius: 10px;
+              "
+            >
+              ⬜ <strong>{{ a.text }}</strong>
+              <span style="color: rgb(0, 153, 255)"
+                >(correct but not selected)</span
+              ></span
+            >
+            {% else %} ⬜ {{ a.text }} {% endif %}
           </li>
           {% endfor %}
         </ul>
-        <div style="font-size: 0.9em; color: #888; margin-bottom: 10px">
+        <!-- <div style="font-size: 0.9em; color: #888; margin-bottom: 10px">
           <strong>Debug info:</strong><br />
           Selected (normalized): {{ r.selected|join(', ') }}<br />
           Correct (normalized): {{ r.correct|join(', ') }}
-        </div>
+        </div> -->
         <p style="color: {{ 'green' if r.is_fully_correct else 'red' }};">
           {% if r.is_fully_correct %}✔️ Correct!{% else %}❌ Incorrect.{% endif
           %}

@@ -14,18 +14,20 @@
   color: #e0e0e0 !important;
 }
 
-.dark-mode button {
-  background-color: #339af0 !important;
+.dark-mode button,
+#darkModeToggle {
+  background-color: #339bf0 !important;
+  border-radius: 20px;
 }
 
-.dark-mode button:hover {
-  background-color: #1976d2 !important;
+.dark-mode button:hover,
+#darkModeToggle:hover {
+  box-shadow: 0 0 15px #339af0 !important;
 }
 
 .dark-mode hr {
   background: #444 !important;
 }
-/* static/style.css */
 
 body {
   font-family: Arial, sans-serif;
@@ -42,18 +44,28 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1,
 h3 {
   color: #333;
+  display: flex;
+  justify-content: left;
+}
+
+h1 {
+  color: #333;
+  display: flex;
+  justify-content: center;
 }
 
 p {
   font-size: 16px;
+  display: flex;
+  justify-content: left;
 }
 
 .question-block,
 .result-block {
-  margin-bottom: 25px;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 input[type="checkbox"] {
@@ -87,4 +99,9 @@ ul {
 li {
   font-size: 16px;
   margin-bottom: 5px;
+}
+
+.answer-label:hover {
+  background-color: #0057b36b;
+  border-radius: 5px;
 }

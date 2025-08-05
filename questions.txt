@@ -1,5 +1,3 @@
-**[⬆ Back to Top](#table-of-contents)**
-
  When can Product Backlog Refinement occur?
 
 - [ ] Only during Sprint Planning.
@@ -1119,8 +1117,7 @@
 
  When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
 
-- [ ] Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a
-hardening Sprint.
+- [ ] Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a hardening Sprint.
 - [ ] The Scrum Masters from each Scrum Team define a common Definition of Done.
 - [ ] Each Scrum Team uses its own, but must make their definition clear to all other teams so the differences are known.
 - [x] All Scrum Teams must have a Definition of Done that makes their combined Increment valuable and useful.

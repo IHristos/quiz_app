@@ -61,8 +61,8 @@ def submit():
         correct_set = set(correct_norm)
 
         # Debug info (remove after troubleshooting)
-        print(f"Q{q['id']} selected: {selected_set}")
-        print(f"Q{q['id']} correct: {correct_set}")
+        # print(f"Q{q['id']} selected: {selected_set}")
+        # print(f"Q{q['id']} correct: {correct_set}")
 
         # Fully correct: selected answers match correct answers exactly
         is_fully_correct = selected_set == correct_set
