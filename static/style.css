@@ -1,3 +1,30 @@
+/* Dark mode styles */
+.dark-mode {
+  background-color: #181a1b !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-mode .container {
+  background-color: #23272b !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-mode h1,
+.dark-mode h3 {
+  color: #e0e0e0 !important;
+}
+
+.dark-mode button {
+  background-color: #339af0 !important;
+}
+
+.dark-mode button:hover {
+  background-color: #1976d2 !important;
+}
+
+.dark-mode hr {
+  background: #444 !important;
+}
 /* static/style.css */
 
 body {

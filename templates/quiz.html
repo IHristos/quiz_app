@@ -28,6 +28,34 @@
     </script>
   </head>
   <body>
+    <button
+      id="darkModeToggle"
+      style="position: fixed; top: 20px; right: 20px; z-index: 1000"
+    >
+      🌙 Dark Mode
+    </button>
+    <script>
+      const toggleBtn = document.getElementById("darkModeToggle");
+      const body = document.body;
+      let dark = false;
+      toggleBtn.onclick = function () {
+        dark = !dark;
+        if (dark) {
+          body.classList.add("dark-mode");
+          toggleBtn.textContent = "☀️ Light Mode";
+        } else {
+          body.classList.remove("dark-mode");
+          toggleBtn.textContent = "🌙 Dark Mode";
+        }
+        localStorage.setItem("darkMode", dark ? "1" : "0");
+      };
+      // Persist mode
+      if (localStorage.getItem("darkMode") === "1") {
+        body.classList.add("dark-mode");
+        toggleBtn.textContent = "☀️ Light Mode";
+        dark = true;
+      }
+    </script>
     <div class="container">
       <h1>Take Your Quiz</h1>
       <p id="timer">30m 0s</p>
