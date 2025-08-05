@@ -55,19 +55,26 @@
         <ul>
           {% for a in r.answers %}
           <li>
-            {% if a in r.selected and a in r.correct %} ✅
-            <strong>{{ a }}</strong>
-            <span style="color: green">(your answer & correct)</span> {% elif a
-            in r.selected and a not in r.correct %} ❌ <strong>{{ a }}</strong>
-            <span style="color: red">(your answer & incorrect)</span> {% elif a
-            in r.correct %} ✅ <strong>{{ a }}</strong>
+            {% if a.is_selected and a.is_correct %} ✅
+            <strong>{{ a.text }}</strong>
+            <span style="color: green">(your answer & correct)</span> {% elif
+            a.is_selected and not a.is_correct %} ❌
+            <strong>{{ a.text }}</strong>
+            <span style="color: red">(your answer & incorrect)</span> {% elif
+            a.is_correct %} ✅ <strong>{{ a.text }}</strong>
             <span style="color: blue">(correct but not selected)</span>
-            {% else %} {{ a }} {% endif %}
+            {% else %} {{ a.text }} {% endif %}
           </li>
           {% endfor %}
         </ul>
-        <p style="color: {{ 'green' if r.is_correct else 'red' }};">
-          {% if r.is_correct %}✔️ Correct!{% else %}❌ Incorrect.{% endif %}
+        <div style="font-size: 0.9em; color: #888; margin-bottom: 10px">
+          <strong>Debug info:</strong><br />
+          Selected (normalized): {{ r.selected|join(', ') }}<br />
+          Correct (normalized): {{ r.correct|join(', ') }}
+        </div>
+        <p style="color: {{ 'green' if r.is_fully_correct else 'red' }};">
+          {% if r.is_fully_correct %}✔️ Correct!{% else %}❌ Incorrect.{% endif
+          %}
         </p>
         <hr />
       </div>

@@ -1,7 +1,5 @@
-# utils.py
-
 import re
-
+import re
 def parse_questions(filepath):
     with open(filepath, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -37,5 +35,10 @@ def parse_questions(filepath):
                 'correct': correct_answers,
                 'multi': len(correct_answers) > 1
             })
+    return questions
+
+# Consistent normalization function
+def normalize_answer(text):
+    return text.strip().lower()
 
     return questions
