@@ -1,6 +1,6 @@
 **[⬆ Back to Top](#table-of-contents)**
 
-### When can Product Backlog Refinement occur?
+ When can Product Backlog Refinement occur?
 
 - [ ] Only during Sprint Planning.
 - [x] Anytime during the Sprint.
@@ -9,7 +9,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What would NOT be considered Refactoring?
+ What would NOT be considered Refactoring?
 
 - [ ] Reordering method parameters to improve readability.
 - [ ] Extracting interfaces.
@@ -19,7 +19,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your Scrum Team is one of seven teams working on a Software Product. All teams use the same Version Control System. Which is the best approach to deliver a high-quality Increment?
+ Your Scrum Team is one of seven teams working on a Software Product. All teams use the same Version Control System. Which is the best approach to deliver a high-quality Increment?
 
 - [ ] Developers should perform a combination of local and private builds.
 - [ ] Each team's automated build is integrated toward the end of the Sprint.
@@ -28,7 +28,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who creates documentation included with an Increment?
+ Who creates documentation included with an Increment?
 
 - [x] The Developers.
 - [ ] Increments do not need documentation.
@@ -38,7 +38,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is a merge in a Version Control System?
+ What is a merge in a Version Control System?
 
 - [ ] Copying a portion of a code base to isolate it from the original codebase.
 - [ ] Identifying a particular codebase as ready for distribution.
@@ -47,7 +47,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which three of the following are feedback loops in Scrum?
+ Which three of the following are feedback loops in Scrum?
 
 - [x] Daily Scrum.
 - [ ] Release Planning.
@@ -57,7 +57,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which four types of tests can be included in an automated test harness?
+ Which four types of tests can be included in an automated test harness?
 
 - [x] Performance.
 - [ ] Exploratory.
@@ -68,7 +68,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which concept is described by the Last Responsible Moment?
+ Which concept is described by the Last Responsible Moment?
 
 - [ ] Making decisions as soon as possible to close feedback loops as soon as possible.
 - [x] Discover decisions to be made as soon as possible but postpone deciding to the latest reasonable moment.
@@ -78,7 +78,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Choose four desirable characteristics of a Unit Test.
+ Choose four desirable characteristics of a Unit Test.
 
 - [ ] Includes exercising the persistence layer.
 - [x] Makes assertions about only one logical concept.
@@ -88,7 +88,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why does a test written using TDD (Test Driven Development) initially fail?
+ Why does a test written using TDD (Test Driven Development) initially fail?
 
 - [ ] Because the test has not been refactored.
 - [ ] Because it has to be put into an automated test harness to be run.
@@ -97,7 +97,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When do the Developers show their work to the Product Owner?
+ When do the Developers show their work to the Product Owner?
 
 - [ ] Whenever the Product Owner asks.
 - [ ] During the Sprint Review.
@@ -106,7 +106,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are possible benefits from practicing Test Driven Development (TDD)?
+ What are possible benefits from practicing Test Driven Development (TDD)?
 
 - [ ] It is a great way for Testers to contribute early in the Sprint as they can start creating all the tests from the beginning on.
 - [ ] It makes Integration Tests obsolete and by doing so saves a lot of time.
@@ -117,7 +117,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who decides the System Architecture of a Product developed using Scrum?
+ Who decides the System Architecture of a Product developed using Scrum?
 
 - [ ] The Architect chosen by the Scrum Team.
 - [ ] The Software Architect assigned to the Scrum Team.
@@ -126,7 +126,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When using Continuous Integration, how often should the build be executed?
+ When using Continuous Integration, how often should the build be executed?
 
 - [ ] Once per hour.
 - [x] Whenever new or changed code is checked into version control.
@@ -136,7 +136,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are advantages of Continuous Integration?
+ Which of the following are advantages of Continuous Integration?
 
 - [ ] Readability of code is improved.
 - [x] Know immediately how a change affected the Product.
@@ -145,7 +145,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who determines how work is performed during the Sprint?
+ Who determines how work is performed during the Sprint?
 
 - [ ] The Scrum Master.
 - [ ] The Scrum Team.
@@ -155,7 +155,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who creates tests on a Scrum Team?
+ Who creates tests on a Scrum Team?
 
 - [ ] The Product Owner.
 - [x] The Developers.
@@ -164,7 +164,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is Test First Development (TFD)?
+ What is Test First Development (TFD)?
 
 - [x] Creating tests before satisfying them.
 - [ ] Testing existing code before adding more code to it.
@@ -173,7 +173,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is the most reliable form of technical documentation?
+ Which is the most reliable form of technical documentation?
 
 - [ ] A spreadsheet of passing manual tests.
 - [ ] The Developer's whiteboard.
@@ -184,7 +184,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### While developing new functionality, you find a bug that has already been delivered to the customer. What do you do?
+ While developing new functionality, you find a bug that has already been delivered to the customer. What do you do?
 
 - [ ] Revise the tests so that the bug no longer appears on the bug report.
 - [ ] Fix the bug.
@@ -193,7 +193,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who has the final decision about the order of items in the Product Backlog?
+ Who has the final decision about the order of items in the Product Backlog?
 
 - [ ] The Scrum Master.
 - [ ] The Stakeholders.
@@ -203,7 +203,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two differences between Unit Tests and Integration Tests?
+ What are two differences between Unit Tests and Integration Tests?
 
 - [x] A Unit Test isolates a specific system behavior.
 - [x] An Integration Test usually focuses on the integration of two or more units.
@@ -213,7 +213,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How much time must a Product Owner spend with the Developers?
+ How much time must a Product Owner spend with the Developers?
 
 - [ ] 100%.
 - [ ] Enough so that the Product Owner is not surprised by the value delivered by the Increment.
@@ -222,7 +222,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the typical roles when practicing Pair Programming?
+ What are the typical roles when practicing Pair Programming?
 
 - [ ] Product Owner and Developer.
 - [ ] Business Analyst and Developer.
@@ -232,14 +232,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: When multiple teams work together on the same Product, each team should maintain a separate Product Backlog.
+ True or False: When multiple teams work together on the same Product, each team should maintain a separate Product Backlog.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are three of the best ways to address non-functional requirements?
+ What are three of the best ways to address non-functional requirements?
 
 - [ ] Scrum is for functional, front-end development only.
 - [x] Important, recurring non-functional requirements can be added to the Definition of Done.
@@ -250,7 +250,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the primary purpose of Refactoring?
+ What is the primary purpose of Refactoring?
 
 - [ ] Ensuring that all factors are constantly aligned.
 - [ ] Removing all bugs that were found during Regression Tests.
@@ -259,7 +259,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which are four attributes of a good bug report?
+ Which are four attributes of a good bug report?
 
 - [x] Expected results and observed results.
 - [x] Includes build or version number where bug was found.
@@ -270,7 +270,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The practice of decomposing a requirement into failing tests is called:
+ The practice of decomposing a requirement into failing tests is called:
 
 - [ ] Regression Testing.
 - [ ] Object oriented requirements definition.
@@ -279,7 +279,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is a mock object?
+ What is a mock object?
 
 - [x] A test object that mimics the behavior of a dependency in the system under test.
 - [ ] A mock helps you create a build script.
@@ -288,7 +288,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which four are benefits of Test Driven Development?
+ Which four are benefits of Test Driven Development?
 
 - [x] It improves quality and reduces bugs.
 - [x] It reduces the cost of maintenance over time.
@@ -298,7 +298,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which are three attributes of a bad bug report?
+ Which are three attributes of a bad bug report?
 
 - [x] Vague statements or untested assumptions.
 - [x] Generic titles.
@@ -308,7 +308,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When using Scrum, can a Scrum Team use Continuous Delivery?
+ When using Scrum, can a Scrum Team use Continuous Delivery?
 
 - [x] Yes, there is nothing in Scrum that conflicts with Continuous Delivery.
 - [ ] No, because the Product Owner may not be available each time a PBI is done and the Product Owner has to decide if it should be released.
@@ -318,7 +318,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?
+ You are asked to refactor part of the codebase for Application X. When you are done, all Unit Tests pass with 50% Code Coverage. What can you infer from this?
 
 - [ ] At least 50% of Application X functions correctly.
 - [ ] At most 50% of Application X functions correctly.
@@ -327,7 +327,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two ways that regulatory compliance issues are dealt with in Scrum?
+ What are two ways that regulatory compliance issues are dealt with in Scrum?
 
 - [ ] They are addressed by a separate team who is responsible for compliance issues.
 - [x] They are addressed along with functional development of the Product.
@@ -336,14 +336,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: User Stories are required in the Product Backlog.
+ True or False: User Stories are required in the Product Backlog.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In Software Development, DRY refers to:
+ In Software Development, DRY refers to:
 
 - [ ] Code with low Cyclomatic Complexity.
 - [x] Code with minimal duplication.
@@ -352,7 +352,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statements are true when multiple Scrum Teams work on a Software Product at the same time?
+ Which statements are true when multiple Scrum Teams work on a Software Product at the same time?
 
 - [ ] All Scrum Teams work in their own version control branch.
 - [ ] Code is merged at the Scrum of Scrums.
@@ -362,7 +362,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which answer best describes Behavior Driven Development (BDD)?
+ Which answer best describes Behavior Driven Development (BDD)?
 
 - [x] A style of Test Driven Development focusing on user and system interactions.
 - [ ] A development style that accounts for leadership style among team members.
@@ -371,7 +371,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In what ways do Developers contribute to refining the Product Backlog?
+ In what ways do Developers contribute to refining the Product Backlog?
 
 - [x] They ask questions in order to clarify the intent of Product Backlog Items.
 - [ ] They do not. The Developers are only responsible for prioritizing technical work.
@@ -381,7 +381,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When should the Developers create their first automated build?
+ When should the Developers create their first automated build?
 
 - [ ] Just before the Product is released.
 - [ ] Before writing the first line of code.
@@ -391,7 +391,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which types of tests can be automated?
+ Which types of tests can be automated?
 
 - [ ] Exploratory.
 - [x] Performance.
@@ -402,7 +402,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How much work is required of the Developers to complete a Product Backlog Item selected during the Sprint Planning?
+ How much work is required of the Developers to complete a Product Backlog Item selected during the Sprint Planning?
 
 - [ ] A proportional amount of time on analysis, design, development, and testing.
 - [ ] All development work and at least some testing.
@@ -411,7 +411,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why might Developers choose to do Pair Programming?
+ Why might Developers choose to do Pair Programming?
 
 - [ ] Information sharing and learning.
 - [ ] Improving Code Quality.
@@ -421,7 +421,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the role of Modeling in Scrum Teams?
+ What is the role of Modeling in Scrum Teams?
 
 - [ ] Models are not used by agile teams.
 - [ ] Models are maintained along with the Software as it emerges.
@@ -430,7 +430,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are DevOps Practices?
+ Which of the following are DevOps Practices?
 
 - [ ] Continuous Integration / Continuous Deployment / Continuous Delivery.
 - [ ] Blue-Green Deployment.
@@ -441,7 +441,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### While practicing Test Driven Development, what is done after the test fails?
+ While practicing Test Driven Development, what is done after the test fails?
 
 - [x] Write the minimum amount of Product code to satisfy the test.
 - [ ] Refactor the test so the code passes.
@@ -451,7 +451,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams?
+ What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams?
 
 - [ ] Create teams based on their skills across multiple layers (such as database, Ul, etc.).
 - [x] Ask the people to divide themselves into teams.
@@ -459,7 +459,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?
+ Developers are blocked by an impediment in the middle of the Sprint. The impediment is outside the Developer's control. What should they do?
 
 - [ ] Stop using Scrum until the impediment is resolved.
 - [ ] Complete the work that can be done and complete the remainder during the hardening Sprint.
@@ -469,7 +469,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is an Integration Test?
+ What is an Integration Test?
 
 - [ ] A test of the user interface.
 - [ ] A test runs during a Continuous Integration build.
@@ -478,7 +478,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following describes the focus of the first way of DevOps?
+ Which of the following describes the focus of the first way of DevOps?
 
 - [ ] The first set of practices a team should apply before moving to the second way.
 - [ ] Using automated build and release pipelines.
@@ -488,7 +488,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following is true about the Definition of Done?
+ Which of the following is true about the Definition of Done?
 
 - [x] It might be a subject of discussion during Sprint Retrospective.
 - [ ] It is the sole responsibility of the Developers to define it.
@@ -498,7 +498,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable Software. What should the Scrum Team do?
+ At Sprint Planning, the Scrum Team has NO clear standard to meet for releasable Software. What should the Scrum Team do?
 
 - [ ] Ask the Product Owner to specify a Definition of Done.
 - [ ] Create a unique completion checklist for each item in the Sprint.
@@ -507,7 +507,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
+ Based on "Sprint 7 Burndown Chart" would you do anything different in Sprint 8?
 
 ![Burndown](images/burndown.jpg)
 
@@ -521,14 +521,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Database design must be complete before coding starts to ensure a solid foundation?
+ True or False: Database design must be complete before coding starts to ensure a solid foundation?
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Daily Scrum event happens every day. What would be three concerns if the frequency were to be lowered to every two to three days?
+ The Daily Scrum event happens every day. What would be three concerns if the frequency were to be lowered to every two to three days?
 
 - [x] Opportunities to inspect and adapt in the Sprint Backlog are lost.
 - [ ] The Scrum Master loses the ability to update the Gantt Chart properly.
@@ -539,7 +539,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are required by Scrum? (choose all of those who apply)
+ Which of the following are required by Scrum? (choose all of those who apply)
 
 - [ ] Release Burnup Chart.
 - [ ] Burndown Chart.
@@ -551,7 +551,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for creation of the Definition of Done?
+ Who is responsible for creation of the Definition of Done?
 
 - [ ] The Scrum Master.
 - [x] The Scrum Team.
@@ -560,7 +560,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Pair Programming is implemented by?
+ Pair Programming is implemented by?
 
 - [ ] Frontend and Backend Developers.
 - [ ] Tester and Developer.
@@ -569,7 +569,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following best describes Emergent Architecture?
+ Which of the following best describes Emergent Architecture?
 
 - [ ] Starting development of a Software Product requires a clear understanding of the underlying Software Architecture and Emergent Architecture describes the process of creating this initial architecture.
 - [ ] The Software Architecture emerges solely decisions the Developers make from a technical perspective.
@@ -579,7 +579,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which are two benefits of establishing naming conventions for code? (choose best two answers)
+ Which are two benefits of establishing naming conventions for code? (choose best two answers)
 
 - [ ] To make it easy to distinguish between different Software Products.
 - [x] To make the code more readable.
@@ -589,7 +589,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Does delivering changes frequently and directly into Production help to reduce risk? (choose two)
+ Does delivering changes frequently and directly into Production help to reduce risk? (choose two)
 
 - [x] Yes, because the changes you make are much smaller and it is easier to fix problems.
 - [ ] No, because each release means a risk to break something so releasing more frequently would increase the risk.
@@ -600,14 +600,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Best Practices are recommended to solve complex problems.
+ True or False: Best Practices are recommended to solve complex problems.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When is Performance Testing most effectively performed?
+ When is Performance Testing most effectively performed?
 
 - [x] Often, throughout development of the Software.
 - [ ] Just before deploying to Production.
@@ -616,7 +616,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which three of the following criteria are most helpful as part of a Scrum Team's Definition of Done? (choose best three answers)
+ Which three of the following criteria are most helpful as part of a Scrum Team's Definition of Done? (choose best three answers)
 
 - [ ] The Product is released at the end of every Sprint.
 - [x] Acceptance Tests pass.
@@ -626,7 +626,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A team has expressed requirements as a set of failing Acceptance Tests. What are two benefits? (choose best two answers)
+ A team has expressed requirements as a set of failing Acceptance Tests. What are two benefits? (choose best two answers)
 
 - [x] Improves quality in the requirement itself.
 - [x] Clear Acceptance Criteria for each feature.
@@ -636,7 +636,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is LEAST useful when measuring Code Maintainability?
+ Which is LEAST useful when measuring Code Maintainability?
 
 - [x] Function Points.
 - [ ] Cyclomatic Complexity.
@@ -644,7 +644,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which two criteria are useful in deciding if something should be documented every Sprint? (choose best two answers)
+ Which two criteria are useful in deciding if something should be documented every Sprint? (choose best two answers)
 
 - [ ] The Scrum Master requires it.
 - [x] It is required by the Definition of Done.
@@ -654,7 +654,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What factor should be considered when establishing the Sprint length?
+ What factor should be considered when establishing the Sprint length?
 
 - [x] The need of the team to learn on doing work and measuring results.
 - [ ] The frequency at which team formation can be changed.
@@ -663,7 +663,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are some disadvantages of Code Coverages as a measurement for how well a system or Product is tested? (choose best three answers)
+ What are some disadvantages of Code Coverages as a measurement for how well a system or Product is tested? (choose best three answers)
 
 - [ ] It only provides insights for programmers.
 - [x] It does not ensure that the most important or highest risk areas of the code are being exercised by the tests.
@@ -673,7 +673,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are quality goals in Application Architecture? (choose best two answers)
+ Which of the following are quality goals in Application Architecture? (choose best two answers)
 
 - [ ] Build.
 - [x] Security.
@@ -682,14 +682,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Stakeholders can be included in Product Backlog Refinement?
+ True or False: Stakeholders can be included in Product Backlog Refinement?
 
 - [x] True.
 - [ ] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two good ways for the Developers to make a non-functional requirements visible?
+ What are two good ways for the Developers to make a non-functional requirements visible?
 
 - [ ] Put them on a separate list on the Scrum board, available for all to see.
 - [x] Add them to the Product Backlog and keep the Product Owner posted on the expected effort.
@@ -698,7 +698,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What activities would a Product Owner typically undertake in the phase between the end of the current Sprint and the start of the next Sprint? (choose the best answer)
+ What activities would a Product Owner typically undertake in the phase between the end of the current Sprint and the start of the next Sprint? (choose the best answer)
 
 - [x] There are no such activities. The next Sprint starts immediately after the current Sprint.
 - [ ] Work with the Quality Assurance departments on the Increment of the current Sprint.
@@ -707,7 +707,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are the Scrum Master on a newly formed Scrum Team. Which two of the following activities would probably help the team in starting up? (choose the best two answers)
+ You are the Scrum Master on a newly formed Scrum Team. Which two of the following activities would probably help the team in starting up? (choose the best two answers)
 
 - [ ] Ensure the Scrum Team members have compatible personalities.
 - [ ] Introduce a bonus system for the top performers in the team.
@@ -717,7 +717,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which best describes the Product Backlog? (choose the best answer)
+ Which best describes the Product Backlog? (choose the best answer)
 
 - [ ] It contains all foreseeable tasks and requirements from which the Scrum team can develop and maintain a complete project plan.
 - [x] It is allowed to grow and change as more is learned about the Product and its customers.
@@ -726,7 +726,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two responsibilities of Testers in the Developers? (choose the best two answers)
+ What are two responsibilities of Testers in the Developers? (choose the best two answers)
 
 - [ ] Verifying the work of programmers.
 - [x] Scrum has no "Tester" role.
@@ -736,7 +736,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How do you know that the Developers are cross-functional? (choose the best answer)
+ How do you know that the Developers are cross-functional? (choose the best answer)
 
 - [ ] A few of the Developers pair program and do Test Driven Development.
 - [x] The Developers have all the skills to create a potentially releasable increment by the end of every Sprint.
@@ -745,7 +745,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### For the purpose of transparency, when does Scrum say a new Increment of working Software must be available? (choose the best answer)
+ For the purpose of transparency, when does Scrum say a new Increment of working Software must be available? (choose the best answer)
 
 - [ ] When the Product Owner asks to create one.
 - [x] At the end of every Sprint.
@@ -755,7 +755,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which three behaviors demonstrate that a team is self-managing? (choose the best three answers)
+ Which three behaviors demonstrate that a team is self-managing? (choose the best three answers)
 
 - [ ] The Developers inviting external people to the Sprint Planning to ask them how to turn a Product Backlog Item into an Increment via a complete and detailed Sprint Backlog.
 - [ ] The Developers are working within the boundaries of their functional description and nicely handing off work from analyst to Developer to Tester to integration.
@@ -768,7 +768,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the purpose of a Sprint Review? (choose the best answer)
+ What is the purpose of a Sprint Review? (choose the best answer)
 
 - [ ] To take time to judge the validity of the project.
 - [x] To inspect the Product Increment with the Stakeholders and collect feedback on next steps.
@@ -777,14 +777,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the Stakeholders.
+ True or False: The Product Owner makes sure the team selects enough from the Product Backlog for a Sprint to satisfy the Stakeholders.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement best describes the Sprint Backlog as outcome of the Sprint Planning? (choose the best answer)
+ Which statement best describes the Sprint Backlog as outcome of the Sprint Planning? (choose the best answer)
 
 - [x] It is the Developers plan for the Sprint.
 - [ ] Every item has a designated owner.
@@ -794,7 +794,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Developers selects a set of Product Backlog Items for a Sprint Backlog with the intent to get the selected items "Done" by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)
+ The Developers selects a set of Product Backlog Items for a Sprint Backlog with the intent to get the selected items "Done" by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)
 
 - [ ] It provides a template for elements that need to be included in the technical documentation.
 - [x] It guides the Developers in creating a forecast at the Sprint Planning.
@@ -805,7 +805,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which output from Sprint Planning provides the Developers with a target and overarching direction for the Sprint? (choose the best answer)
+ Which output from Sprint Planning provides the Developers with a target and overarching direction for the Sprint? (choose the best answer)
 
 - [x] The Sprint Goal.
 - [ ] Sprint Review minutes.
@@ -814,7 +814,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Product Owner determines how many Product Backlog Items the Developers selects for a Sprint. (choose the best answer)
+ The Product Owner determines how many Product Backlog Items the Developers selects for a Sprint. (choose the best answer)
 
 - [ ] True, but only after confirmation by the resource manager that the Team has enough capacity.
 - [ ] False, capacity and commitment are the Project Manager's responsibility.
@@ -825,7 +825,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who owns the Sprint Backlog? (choose the best answer)
+ Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Scrum Team.
 - [ ] The Scrum Master.
@@ -834,7 +834,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When is implementation of a Product Backlog Item considered complete? (choose the best answer)
+ When is implementation of a Product Backlog Item considered complete? (choose the best answer)
 
 - [x] When the item has no work remaining in order to be potentially released.
 - [ ] When Quality Assurance reports that the item passes all Acceptance Criteria.
@@ -843,7 +843,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which two of the following are true about the Scrum Master role? (choose the best two answers)
+ Which two of the following are true about the Scrum Master role? (choose the best two answers)
 
 - [x] The Scrum Master teaches the Developers to keep the Scrum meetings to their time-box.
 - [ ] The Scrum Master is responsible for updating the Sprint Burndown.
@@ -853,7 +853,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
+ Which two of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
 
 - [ ] Documenting Acceptance Criteria for items in the next Sprint. 
 - [ ] The order of items in the Product Backlog.
@@ -862,14 +862,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Multiple Scrum Teams working on the same project must have the same Sprint start date.
+ True or False: Multiple Scrum Teams working on the same project must have the same Sprint start date.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When is it most appropriate for a Scrum Team to change the Definition of Done? (choose the best answer)
+ When is it most appropriate for a Scrum Team to change the Definition of Done? (choose the best answer)
 
 - [ ] During Sprint Planning.
 - [ ] Prior to starting a new project.
@@ -878,7 +878,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Product Owner is not collaborating with the Developers during the Sprint. What are two valuable actions for a Scrum Master to take? (choose the best two answers)
+ The Product Owner is not collaborating with the Developers during the Sprint. What are two valuable actions for a Scrum Master to take? (choose the best two answers)
 
 - [ ] Nominate a proxy Product Owner.
 - [x] Coach the Product Owner in the values of Scrum and incremental delivery.
@@ -888,7 +888,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A Scrum Master is working with the Developers that has members in different physical locations. The Developers meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
+ A Scrum Master is working with the Developers that has members in different physical locations. The Developers meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
 
 - [ ] Ask the Developers to alternate who is responsible for meeting setup.
 - [ ] Set up the meeting and tell the Developers that is how it will be done.
@@ -897,7 +897,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Five new Scrum Teams have been created to build one Product. A few of the Developers on one of the Developers ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
+ Five new Scrum Teams have been created to build one Product. A few of the Developers on one of the Developers ask the Scrum Master how to coordinate their work with the other teams. What should the Scrum Master do?
 
 - [ ] Teach the Product Owner to work with the Lead Developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint.
 - [ ] Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint.
@@ -906,14 +906,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
+ True or False: Scrum is a methodology that tells in detail how to build Software incrementally.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In the Sprint Planning meeting, the Product Owner and the Developers were unable to reach a clear understanding about the highest order Product Backlog Items. Because of this, the Developers couldn't figure out how many Product Backlog Items it could forecast for the upcoming Sprint. They were able to agree on a Sprint Goal, however. Which of the following two actions should the Scrum Master support? (choose the best two answers)
+ In the Sprint Planning meeting, the Product Owner and the Developers were unable to reach a clear understanding about the highest order Product Backlog Items. Because of this, the Developers couldn't figure out how many Product Backlog Items it could forecast for the upcoming Sprint. They were able to agree on a Sprint Goal, however. Which of the following two actions should the Scrum Master support? (choose the best two answers)
 
 - [ ] Ask everyone to take as much time as needed to analyze the Product Backlog first, and then reconvene another Sprint Planning meeting.
 - [ ] Cancel the Sprint. Send the entire team to an advanced Scrum training and then start a new Sprint.
@@ -923,7 +923,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A member of the Developers takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do? (choose the best answer)
+ A member of the Developers takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do? (choose the best answer)
 
 - [ ] Create a Product Backlog Item for security.
 - [x] Ask the person to share the issue with the team as soon as possible.
@@ -933,7 +933,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)
+ What are two ways that architecture and infrastructure are handled in Scrum? (choose the best two answers)
 
 - [x] They are implemented along with functional development of the Product.
 - [ ] They are built by a separate team through the creation of an architectural runway.
@@ -942,7 +942,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are three ways Scrum promotes self-management? (choose three)
+ What are three ways Scrum promotes self-management? (choose three)
 
 - [ ] By preventing Stakeholders from entering the development room.
 - [x] By removing titles for the Developers.
@@ -952,14 +952,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
+ True or False: Cross-functional teams are optimized to work on one technical layer of a system only (e.g. GUI, database, middle tier, interfaces).
 
 - [x] False.
 - [ ] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are three benefits of self-management? (choose three)
+ What are three benefits of self-management? (choose three)
 
 - [ ] Increased accuracy of estimates.
 - [ ] Increased rule compliance.
@@ -969,7 +969,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why does a Scrum Team need a Sprint Goal?
+ Why does a Scrum Team need a Sprint Goal?
 
 - [ ] A Sprint Goal ensures that all of the Product Backlog Items selected for the Sprint are implemented.
 - [x] The Scrum Team is more focused with a common yet specific goal.
@@ -978,7 +978,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How should Product Backlog Items be chosen when multiple Scrum Teams work from the same Product Backlog?
+ How should Product Backlog Items be chosen when multiple Scrum Teams work from the same Product Backlog?
 
 - [ ] The Product Owner should provide each team with its own Product Backlog.
 - [x] The Developers pull in work in agreement with the Product Owner.
@@ -988,7 +988,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following describe Test Driven Development? (choose two answers)
+ Which of the following describe Test Driven Development? (choose two answers)
 
 - [x] A Software Development technique based on automated tests.
 - [ ] A predictable way to develop working, well-organized code.
@@ -998,7 +998,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When a Continuous Integration build fails, who ideally ensures the build is repaired? (choose the best answer)
+ When a Continuous Integration build fails, who ideally ensures the build is repaired? (choose the best answer)
 
 - [ ] The person who broke the build.
 - [ ] The next person who needs the build to complete successfully.
@@ -1008,7 +1008,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What happens during Sprint 0? (choose the best answer)
+ What happens during Sprint 0? (choose the best answer)
 
 - [ ] Establish base System Architecture and design, install version control and continuous integration setup.
 - [x] There is no such thing as Sprint 0.
@@ -1018,7 +1018,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Product Backlog Items are refined by: (choose the best answer)
+ Product Backlog Items are refined by: (choose the best answer)
 
 - [ ] The Developers.
 - [ ] The Product Owner.
@@ -1027,7 +1027,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for the System Architecture of a Product being developed using Scrum? (choose the best answer)
+ Who is responsible for the System Architecture of a Product being developed using Scrum? (choose the best answer)
 
 - [ ] The Architect chosen by the Scrum Team.
 - [x] The Developers.
@@ -1036,7 +1036,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are attributes of a bad bug report? (choose the best three answers)
+ Which of the following are attributes of a bad bug report? (choose the best three answers)
 
 - [ ] Simple and repeatable reproduction steps.
 - [x] Vague statements or untested assumptions.
@@ -1046,7 +1046,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who writes tests in a Scrum Team? (choose the best answer)
+ Who writes tests in a Scrum Team? (choose the best answer)
 
 - [x] The Developers.
 - [ ] Coders.
@@ -1055,7 +1055,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When Developers are having trouble delivering an Increment because they do not understand a functional requirement, what should they do?
+ When Developers are having trouble delivering an Increment because they do not understand a functional requirement, what should they do?
 
 - [ ] Partially complete the functionality, and discuss the remaining work at the Sprint Review.
 - [ ] Add a specialist to the Scrum Team.
@@ -1064,7 +1064,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who should be present during Product Backlog Refinement? (choose the best answer)
+ Who should be present during Product Backlog Refinement? (choose the best answer)
 
 - [ ] The integration architects from the release department.
 - [ ] Only the most senior Developers.
@@ -1074,14 +1074,14 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Programmers and Testers should not be included in refining Product Backlog Items.
+ True or False: Programmers and Testers should not be included in refining Product Backlog Items.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why are automated builds important? (choose the best answer)
+ Why are automated builds important? (choose the best answer)
 
 - [ ] Without them you cannot tell if your code works.
 - [ ] You are unable to check-in code without one.
@@ -1090,7 +1090,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Upon what type of process control is Scrum based? (choose the best answer)
+ Upon what type of process control is Scrum based? (choose the best answer)
 
 - [ ] Defined.
 - [x] Empirical.
@@ -1099,7 +1099,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When might a Sprint be abnormally cancelled? (choose the best answer)
+ When might a Sprint be abnormally cancelled? (choose the best answer)
 
 - [x] When the Sprint Goal becomes obsolete.
 - [ ] When the sales department has an important new opportunity.
@@ -1108,7 +1108,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly? (choose the best answer)
+ Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly? (choose the best answer)
 
 - [ ] The Scrum Master.
 - [ ] The Project Manager.
@@ -1117,7 +1117,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
+ When many Scrum Teams are working on a single Product, what best describes the Definition of Done? (choose the best answer)
 
 - [ ] Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a
 hardening Sprint.
@@ -1127,7 +1127,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog Items selected? (choose the best answer)
+ During a Sprint, a Developer determines that the Scrum Team will not be able to complete the items in their forecast. Who should be present to review and adjust the Product Backlog Items selected? (choose the best answer)
 
 - [x] The Product Owner and the Developers.
 - [ ] The Scrum Master, the Project Manager, and the Developers.
@@ -1136,7 +1136,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When should the Developers on a Scrum Team be replaced? (choose the best answer)
+ When should the Developers on a Scrum Team be replaced? (choose the best answer)
 
 - [ ] As needed, with no special allowance for changes in productivity.
 - [ ] Never, it reduces productivity.
@@ -1145,7 +1145,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When is a Sprint over? (choose the best answer)
+ When is a Sprint over? (choose the best answer)
 
 - [ ] When all Product Backlog Items meet their Definition of Done.
 - [x] When the timebox expires.
@@ -1154,7 +1154,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When does the next Sprint begin? (choose the best answer)
+ When does the next Sprint begin? (choose the best answer)
 
 - [ ] Immediately following the next Sprint Planning.
 - [x] Immediately after the conclusion of the previous Sprint.
@@ -1163,7 +1163,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What does it mean to say that an event has a timebox? (choose the best answer)
+ What does it mean to say that an event has a timebox? (choose the best answer)
 
 - [ ] The event must happen at a set time.
 - [x] The event can take no more than a maximum amount of time.
@@ -1172,7 +1172,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is required to attend the Daily Scrum? (choose the best answer)
+ Who is required to attend the Daily Scrum? (choose the best answer)
 
 - [ ] The Developers and Product Owner.
 - [x] The Developers.
@@ -1182,7 +1182,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When does a Developer become accountable for the value of a Product Backlog Item selected for the Sprint? (choose the best answer)
+ When does a Developer become accountable for the value of a Product Backlog Item selected for the Sprint? (choose the best answer)
 
 - [ ] Whenever a team member can accommodate more work.
 - [ ] At the Sprint Planning Event.
@@ -1191,7 +1191,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is on the Scrum Team? (choose the best three answers)
+ Who is on the Scrum Team? (choose the best three answers)
 
 - [ ] Project Manager.
 - [x] Developers.
@@ -1200,7 +1200,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team? (choose the best three answers)
+ Which of the following are examples of a Scrum Team practicing Scrum poorly or not exhibiting traits of a self-managing Scrum Team? (choose the best three answers)
 
 - [ ] The Developers have all the skills they need to create a valuable, useful Increment.
 - [x] Stakeholders attend the Daily Scrum to check on the Scrum Team's progress.
@@ -1211,7 +1211,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The timebox for the Sprint Review is: (choose the best answer)
+ The timebox for the Sprint Review is: (choose the best answer)
 
 - [ ] As long as needed.
 - [ ] 2 hours.
@@ -1221,7 +1221,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The timebox for the Sprint Planning event is? (choose the best answer)
+ The timebox for the Sprint Planning event is? (choose the best answer)
 
 - [x] 8 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
 - [ ] 4 hours.
@@ -1230,14 +1230,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working Product.
+ True or False: The purpose of a Sprint is to produce a valuable and useful Increment of working Product.
 
 - [x] True.
 - [ ] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### An organization has decided to adopt Scrum, but Management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
+ An organization has decided to adopt Scrum, but Management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)
 
 - [ ] Without a new vocabulary as a reminder of the change, very little change may actually happen.
 - [ ] The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost.
@@ -1246,7 +1246,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who creates the Definition of Done? (choose the best answer)
+ Who creates the Definition of Done? (choose the best answer)
 
 - [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
 - [ ] The Scrum Master since they are responsible for the productivity of the Developers.
@@ -1255,7 +1255,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for managing the progress of work during a Sprint? (choose the best answer)
+ Who is responsible for managing the progress of work during a Sprint? (choose the best answer)
 
 - [x] The Developers.
 - [ ] The most junior member of the team.
@@ -1264,7 +1264,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who has the final say on the order of the Product Backlog? (choose the best answer)
+ Who has the final say on the order of the Product Backlog? (choose the best answer)
 
 - [x] The Product Owner.
 - [ ] The Stakeholders.
@@ -1274,7 +1274,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which Scrum events are timeboxed? (choose the best three answers)
+ Which Scrum events are timeboxed? (choose the best three answers)
 
 - [ ] Release Retrospective.
 - [x] Sprint Planning.
@@ -1286,7 +1286,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A Scrum Team consists of the following: (choose the best three answers)
+ A Scrum Team consists of the following: (choose the best three answers)
 
 - [x] Product Owner.
 - [x] Scrum Master.
@@ -1296,7 +1296,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When does a Developer become the sole owner of a Sprint Backlog item? (choose the best answer)
+ When does a Developer become the sole owner of a Sprint Backlog item? (choose the best answer)
 
 - [ ] Whenever a team member can accommodate more work.
 - [ ] During the Daily Scrum.
@@ -1305,7 +1305,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the role of Management in Scrum? (choose the best answer)
+ What is the role of Management in Scrum? (choose the best answer)
 
 - [x] Support the Product Owner with insights and information into high value Product and system capabilities. Support the Scrum Master to cause organizational change that fosters empiricism, self-management, bottom-up intelligence, and intelligent Product delivery.
 - [ ] Continually monitor staffing levels of the Scrum Team.
@@ -1314,7 +1314,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why is the Daily Scrum held at the same time and same place? (choose the best answer)
+ Why is the Daily Scrum held at the same time and same place? (choose the best answer)
 
 - [x] The consistency reduces complexity.
 - [ ] The place can be named.
@@ -1323,7 +1323,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The length of a Sprint should be: (choose the best answer)
+ The length of a Sprint should be: (choose the best answer)
 
 - [ ] Short enough to keep the business risk acceptable to the Product Owner.
 - [ ] Short enough to be able to synchronize the development work with other business events.
@@ -1332,7 +1332,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How much work must the Developers complete for each Product Backlog Item they select for a Sprint? (choose the best answer)
+ How much work must the Developers complete for each Product Backlog Item they select for a Sprint? (choose the best answer)
 
 - [x] Enough so that each Product Backlog Item they select meets the Definition of Done.
 - [ ] Analysis, design, programming, testing and documentation.
@@ -1341,7 +1341,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do? (choose the best answer)
+ The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do? (choose the best answer)
 
 - [ ] Add the item to the current Sprint and drop an item of equal size.
 - [x] Inform the other members of the Scrum Team so the team can decide what to do.
@@ -1350,7 +1350,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the recommended size for a Scrum Team? (choose the best answer)
+ What is the recommended size for a Scrum Team? (choose the best answer)
 
 - [ ] Minimum of 7.
 - [ ] 9.
@@ -1359,7 +1359,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement best describes a Product Owner's responsibility? (choose the best answer)
+ Which statement best describes a Product Owner's responsibility? (choose the best answer)
 
 - [ ] Keep Stakeholders from distracting the Developers.
 - [x] Optimizing the value of the work the Scrum Team does.
@@ -1368,14 +1368,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: 100% Code Coverage of tests guarantees bug-free Software.
+ True or False: 100% Code Coverage of tests guarantees bug-free Software.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for monitoring the progress of work during a Sprint? Pick 1
+ Who is responsible for monitoring the progress of work during a Sprint? Pick 1
 
 - [ ] Product Owner.
 - [ ] Project Manager.
@@ -1384,7 +1384,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who can tell the Developers what to work on?
+ Who can tell the Developers what to work on?
 
 - [x] The Product Owner.
 - [ ] The COO, CEO and CTO.
@@ -1393,7 +1393,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who can do the work to ensure the Product Backlog is refined to a state that it is useful? Pick 2
+ Who can do the work to ensure the Product Backlog is refined to a state that it is useful? Pick 2
 
 - [x] The Product Owner.
 - [ ] The Business Analyst.
@@ -1402,7 +1402,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### SCRUM stands for:
+ SCRUM stands for:
 
 - [ ] Super Creative Really Useful Method.
 - [ ] Self Organising Collaborative & Reflective Universal Method.
@@ -1411,7 +1411,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who manages the Sprint Backlog?
+ Who manages the Sprint Backlog?
 
 - [ ] The Scrum Master.
 - [ ] The Product Owner.
@@ -1420,7 +1420,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement best describes a cross-functional team? Pick 1
+ Which statement best describes a cross-functional team? Pick 1
 
 - [ ] The team has a good mix of skills.
 - [ ] All members of the team have all the skills required to create the Product.
@@ -1428,14 +1428,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Bugs discovered out of Sprint should be:
+ Bugs discovered out of Sprint should be:
 
 - [ ] Investigated and fixed immediately by the Developers.
 - [x] Reviewed with the Product Owner and added to the Product Backlog.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? (select all that apply)
+ When could a release to Production occur if a Scrum Team produced a Done increment multiple times each day? (select all that apply)
 
 - [x] Mid Sprint.
 - [x] Every Sprint.
@@ -1444,14 +1444,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The Definition of Done is a mandatory part of Scrum.
+ True or False: The Definition of Done is a mandatory part of Scrum.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who may be best positioned to decide who will be the Scrum Master for a new Scrum Team?
+ Who may be best positioned to decide who will be the Scrum Master for a new Scrum Team?
 
 - [ ] The Developers.
 - [ ] The Product Owner.
@@ -1460,14 +1460,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: A Scrum Team must be 10 or fewer people.
+ True or False: A Scrum Team must be 10 or fewer people.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Continuous Integration (CI) provides the following advantages: (select all that apply)
+ Continuous Integration (CI) provides the following advantages: (select all that apply)
 
 - [x] Less back-tracking to discover where things went wrong, so you can spend more time building features.
 - [x] Allows teams to detect problems early.
@@ -1476,7 +1476,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Sizing is best when: (select all that apply)
+ Sizing is best when: (select all that apply)
 
 - [x] It is done by the actual Developers who will carry out the work.
 - [x] It is done by a group, rather than an individual.
@@ -1485,7 +1485,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Select the correct timebox for each Scrum event.
+ Select the correct timebox for each Scrum event.
 
 - [ ] Sprint Planning - 8 hours or less, Daily Scrum - 30 minutes or less, Sprint Review - 4 hours or less, Sprint Retrospective - 3 hours or less.
 - [ ] Sprint Planning - 4 hours or less, Daily Scrum - 15 minutes or less, Sprint Review - 8 hours or less, Sprint Retrospective - 4 hours or less.
@@ -1494,14 +1494,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Planning Poker must be used by Scrum Teams.
+ True or False: Planning Poker must be used by Scrum Teams.
 
 - [x] False.
 - [ ] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is Test Driven Development?
+ What is Test Driven Development?
 
 - [ ] Appointing the QA Tester as the Lead Developer.
 - [x] The practice of writing Unit Tests prior to writing the implementation code.
@@ -1510,14 +1510,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Tasks in a Sprint Backlog must be estimated in days/hours.
+ True or False: Tasks in a Sprint Backlog must be estimated in days/hours.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for testing in Scrum?
+ Who is responsible for testing in Scrum?
 
 - [ ] The Product Owner.
 - [x] The Developers.
@@ -1526,7 +1526,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Bugs discovered in Sprint should be:
+ Bugs discovered in Sprint should be:
 
 - [x] Fixed immediately.
 - [ ] Ignored if not created by me.
@@ -1535,14 +1535,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: YAGNI states that most systems work best if they are kept simple rather than made complicated.
+ True or False: YAGNI states that most systems work best if they are kept simple rather than made complicated.
 
 - [x] False.
 - [ ] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is a Scrum Value? (pick all that apply)
+ Which one is a Scrum Value? (pick all that apply)
 
 - [x] Focus.
 - [x] Commitment.
@@ -1552,7 +1552,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is NOT the name of the original program in source control from which branches are taken?
+ What is NOT the name of the original program in source control from which branches are taken?
 
 - [ ] Mainline.
 - [x] Feature.
@@ -1561,7 +1561,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the Static Analysis?
+ What is the Static Analysis?
 
 - [x] Analysis performed on code in a non-runtime environment.
 - [ ] Analysis performed on Software at runtime.
@@ -1570,7 +1570,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is true about Black-box testing? (pick all that apply)
+ Which one is true about Black-box testing? (pick all that apply)
 
 - [ ] Tester can see inside the component or system under test.
 - [x] Tests that are done can be either functional or non-functional.
@@ -1580,7 +1580,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which expression is NOT used for KISS principle?
+ Which expression is NOT used for KISS principle?
 
 - [ ] Keep it simple, silly.
 - [x] Keep it safe and same.
@@ -1589,7 +1589,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What shapes can be an Architecture Spike? (pick all that apply)
+ What shapes can be an Architecture Spike? (pick all that apply)
 
 - [x] A prototype which will be thrown away.
 - [ ] A comprehensive architecture implementation.
@@ -1598,7 +1598,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What does cross-functionality mean in a Scrum Team?
+ What does cross-functionality mean in a Scrum Team?
 
 - [ ] Each Developer who has a special skill and works with all Scrum Teams of the organization is cross-functional.
 - [ ] The Developers should collaborate with all other functional departments of the organization.
@@ -1607,7 +1607,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the proper reaction of the Developers in the middle of the Sprint when they found they have over committed?
+ What is the proper reaction of the Developers in the middle of the Sprint when they found they have over committed?
 
 - [ ] They should ask the Product Owner to cancel the Sprint.
 - [ ] They extend the Sprint duration.
@@ -1616,7 +1616,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the Sprint Planning time-box for two-week Sprints?
+ What is the Sprint Planning time-box for two-week Sprints?
 
 - [ ] Usually 2 hours.
 - [ ] Usually 8 hours.
@@ -1625,7 +1625,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is true?
+ Which one is true?
 
 - [ ] There is no assignment for both Sprint Backlog elements.
 - [x] The team can assign a task to a Team member with consensus.
@@ -1634,14 +1634,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
+ True or False: Through Depth of Inheritance metric, a low number for depth implies less complexity but also the possibility of less code reuse through inheritance.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for writing tests in a Scrum Team?
+ Who is responsible for writing tests in a Scrum Team?
 
 - [x] The Developers.
 - [ ] The programmer.
@@ -1650,7 +1650,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who are the participants of the Daily Scrum?
+ Who are the participants of the Daily Scrum?
 
 - [ ] The Developers and the Scrum Master.
 - [ ] The Developers and the Product Owner.
@@ -1659,7 +1659,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which concept has interactive attribute?
+ Which concept has interactive attribute?
 
 - [ ] Sketch.
 - [ ] Mockup.
@@ -1668,7 +1668,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for the documentation?
+ Who is responsible for the documentation?
 
 - [x] Developers.
 - [ ] Tech Lead.
@@ -1677,14 +1677,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Afferent Coupling measures the number of classes on which a given class depends.
+ True or False: Afferent Coupling measures the number of classes on which a given class depends.
 
 - [x] False.
 - [ ] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which concerns are most important in the scaled Scrum? Pick 2
+ Which concerns are most important in the scaled Scrum? Pick 2
 
 - [x] Minimizing or removing dependencies between teams.
 - [x] Creating an integrated releasable Increment at the end of each Sprint.
@@ -1693,7 +1693,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who makes the decision for the architecture in a Scrum Team?
+ Who makes the decision for the architecture in a Scrum Team?
 
 - [ ] Tech Lead.
 - [x] Developers.
@@ -1703,7 +1703,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How much time does the Product Owner should consume for the Product Backlog Refinement?
+ How much time does the Product Owner should consume for the Product Backlog Refinement?
 
 - [ ] No more than 10%.
 - [ ] No more than 20%.
@@ -1712,7 +1712,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is a Scrum Team role? (pick all that apply)
+ Which one is a Scrum Team role? (pick all that apply)
 
 - [x] The Product Owner.
 - [ ] The Project Manager.
@@ -1721,7 +1721,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is NOT a Test Double?
+ Which one is NOT a Test Double?
 
 - [x] Two combined Unit Tests.
 - [ ] Test Spy.
@@ -1730,7 +1730,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is true about Refactoring?
+ Which is true about Refactoring?
 
 - [x] Through it internal structure of code is altered.
 - [x] Its results are improved maintainability, code readability and reduced complexity.
@@ -1739,7 +1739,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When the Product Owner can see the Developers work?
+ When the Product Owner can see the Developers work?
 
 - [ ] Just at the Sprint Review.
 - [ ] Whenever the Developers are ready.
@@ -1748,7 +1748,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the most important things for increasing transparency?
+ What are the most important things for increasing transparency?
 
 - [ ] Using chat tools to have the best communication.
 - [x] Having a Definition of Done.
@@ -1757,7 +1757,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the ATDD?
+ What is the ATDD?
 
 - [x] Using Acceptance Tests to define requirements specified by the customer and market.
 - [ ] Using advanced Integration Test to develop quality Product.
@@ -1766,7 +1766,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### In Software Development, which acronym is NOT true?
+ In Software Development, which acronym is NOT true?
 
 - [ ] LOC: Lines of Code.
 - [ ] CBO: Coupling Between Objects.
@@ -1775,7 +1775,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Where does Smoke testing originate from?
+ Where does Smoke testing originate from?
 
 - [ ] Comes from a comprehensive type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run.
 - [ ] Comes from a basic type of hardware testing in which a device passes the test if it does not catch fire during a sample long time run.
@@ -1784,7 +1784,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the goal of the Continuous Integration?
+ What is the goal of the Continuous Integration?
 
 - [ ] To publish the Product Increment on Production.
 - [ ] To penalize the Developer who breaks the build.
@@ -1793,7 +1793,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What kind of activity can be done in the Product Backlog Refinement?
+ What kind of activity can be done in the Product Backlog Refinement?
 
 - [x] Adding detail to the items.
 - [x] Ordering.
@@ -1802,7 +1802,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the recommended size of the Scrum Team?
+ What is the recommended size of the Scrum Team?
 
 - [x] 10 or fewer people.
 - [ ] 5 ± 4.
@@ -1811,7 +1811,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the duties of the Developers in a Scrum Team?
+ What are the duties of the Developers in a Scrum Team?
 
 - [ ] Removing impediments.
 - [x] Making technical decisions.
@@ -1820,7 +1820,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is true about the scaled Scrum? Pick 2
+ Which one is true about the scaled Scrum? Pick 2
 
 - [ ] The scaled Scrum does not add or change anything in Scrum framework.
 - [x] It is based on the Scrum framework.
@@ -1829,7 +1829,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which factors should be considered to determine the Sprint length? (pick all that apply)
+ Which factors should be considered to determine the Sprint length? (pick all that apply)
 
 - [x] Market change speed.
 - [x] Raising complexity speed.
@@ -1838,14 +1838,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: One of the outcomes of using TDD is creating an automated Regression Test suite.
+ True or False: One of the outcomes of using TDD is creating an automated Regression Test suite.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which work can be done between two Sprints?
+ Which work can be done between two Sprints?
 
 - [x] Nothing. There is no special time between two Sprints.
 - [ ] Resolving some important bugs.
@@ -1854,7 +1854,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How often does the Sprint Planning should be conducted?
+ How often does the Sprint Planning should be conducted?
 
 - [ ] Once a Release.
 - [ ] Each time that the Product Owner decides.
@@ -1863,14 +1863,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Creating a done and potentially releasable Increment is the purpose of each Sprint.
+ True or False: Creating a done and potentially releasable Increment is the purpose of each Sprint.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is NOT true about Lines of Code metric?
+ Which is NOT true about Lines of Code metric?
 
 - [ ] A high count might indicate that a type or method is doing too much work.
 - [ ] A high count might be a warning that code will be hard to maintain.
@@ -1879,7 +1879,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What does Code Coverage mean?
+ What does Code Coverage mean?
 
 - [x] The degree of a source code which is executed or exercised by a test suite.
 - [ ] The number of Unit Tests which have passed through a test suite run.
@@ -1888,7 +1888,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who are responsible for monitoring the progress over the Project and Sprint?
+ Who are responsible for monitoring the progress over the Project and Sprint?
 
 - [x] Project Progress: the Product Owner, Sprint Progress: the Developers.
 - [ ] Project Progress: the Scrum Master, Sprint Progress: the Developers.
@@ -1897,7 +1897,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is true about Strategic Debt in Technical Debt context?
+ Which is true about Strategic Debt in Technical Debt context?
 
 - [x] Debt caused to gain strategic benefits (such as time to market).
 - [ ] This is typically caused by lack of awareness or knowledge.
@@ -1905,7 +1905,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is a code metric? (pick all that apply)
+ Which one is a code metric? (pick all that apply)
 
 - [ ] Code Coverage.
 - [x] Lines of Code.
@@ -1915,7 +1915,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the outputs of the Sprint Planning?
+ What are the outputs of the Sprint Planning?
 
 - [ ] The Increment.
 - [ ] The Release Plan.
@@ -1924,14 +1924,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
+ True or False: Dependency Inversion principle implies that entities must depend on abstractions not on concretions.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What will happen for the undone Sprint Backlog Items at the end of the Sprint?
+ What will happen for the undone Sprint Backlog Items at the end of the Sprint?
 
 - [ ] Extend the Sprint to finish them.
 - [ ] Move back to the bottom of the Product Backlog.
@@ -1940,7 +1940,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What the Developers should do when the CEO assign them an unplanned work in the middle of the Sprint?
+ What the Developers should do when the CEO assign them an unplanned work in the middle of the Sprint?
 
 - [ ] Inform the Scrum Master to work with his/her.
 - [ ] Reject it because they are independent.
@@ -1949,7 +1949,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When the Developers can change their practices, tools or techniques?
+ When the Developers can change their practices, tools or techniques?
 
 - [x] Whenever needed.
 - [ ] At the end of each release.
@@ -1958,7 +1958,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How many Definition of Done should be used in scaled Scrum?
+ How many Definition of Done should be used in scaled Scrum?
 
 - [ ] They can have a separate Definition of Done for each team as long as they do not violate each other.
 - [ ] Each team should have a separated Definition of Done.
@@ -1967,7 +1967,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which two of the followings are synonyms of TDD?
+ Which two of the followings are synonyms of TDD?
 
 - [ ] Domain Driven Design.
 - [x] Red-Green-Refactor.
@@ -1976,7 +1976,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When tests should be added in the development process?
+ When tests should be added in the development process?
 
 - [ ] At the end of each release.
 - [x] From the beginning of the project.
@@ -1985,7 +1985,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which language is usually used in BDD?
+ Which language is usually used in BDD?
 
 - [x] Ubiquitous language.
 - [ ] Tongue language.
@@ -1994,7 +1994,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the followings are characteristics of a good bug report? (pick all that apply)
+ Which of the followings are characteristics of a good bug report? (pick all that apply)
 
 - [ ] Impacted related requirement.
 - [x] Version and build of the Software under test.
@@ -2003,7 +2003,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who creates the Sprint Backlog?
+ Who creates the Sprint Backlog?
 
 - [ ] The Scrum Master.
 - [ ] The Product Owner.
@@ -2012,7 +2012,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When is a feature done?
+ When is a feature done?
 
 - [x] When it is potentially releasable and shippable.
 - [ ] When the Product Owner approves it.
@@ -2021,14 +2021,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The Developers have immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
+ True or False: The Developers have immediately resolved a bug, which is found in the current Sprint and belongs to an Increment that has already been delivered to the market. Is it a proper behavior?
 
 - [x] False.
 - [ ] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why mock objects are used in Unit Tests? Pick 3
+ Why mock objects are used in Unit Tests? Pick 3
 
 - [x] To simulate the behavior of a given object.
 - [x] To isolate system under test for controlled testing.
@@ -2037,7 +2037,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?
+ What is the usual comparison of Product Backlog Items average size in the Product Backlog and Sprint Backlog?
 
 - [ ] Product Backlog Items in the Product Backlog are usually smaller than the Sprint Backlog.
 - [ ] Product Backlog Items in the Product Backlog are usually larger than the Sprint Backlog.
@@ -2046,7 +2046,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is NOT true about Efferent Coupling?
+ Which is NOT true about Efferent Coupling?
 
 - [x] Classes with high efferent will affect other classes when changes are made.
 - [ ] A large Efferent Coupling can indicate that a class is unfocused and may also indicate that it is unstable since it depends on the stability of all the types to which it is coupled.
@@ -2055,7 +2055,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the instability index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
+ What is the instability index metric calculation formula? (Ca: Afferent Coupling, Ce: Efferent Coupling)
 
 - [ ] Ca / (Ca+Ce).
 - [x] Ce / (Ca+Ce).
@@ -2064,7 +2064,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is true about the Sprint Backlog?
+ Which is true about the Sprint Backlog?
 
 - [ ] It is a list of selected Product Backlog Items that the Developers have committed for the Sprint.
 - [ ] It contains all Product Backlog Items and requirements that could be implemented for the project.
@@ -2073,7 +2073,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
+ Which one is true about Definition of Done and Acceptance Criteria? (pick all that apply)
 
 - [x] Acceptance Criteria should be passed for a feature in order to be called as complete and done.
 - [x] Acceptance Criteria should be passed to ensure that a feature is working as expected.
@@ -2083,7 +2083,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which principle is included in SOLID? (pick all that apply)
+ Which principle is included in SOLID? (pick all that apply)
 
 - [x] Liskov Substitution Principle.
 - [ ] Dual Interface Principle.
@@ -2093,14 +2093,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: In an impediment case, the Scrum Master can intervene to help the Developers to remove a member from the Developers.
+ True or False: In an impediment case, the Scrum Master can intervene to help the Developers to remove a member from the Developers.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is true about the Daily Scrum? Pick 3
+ Which one is true about the Daily Scrum? Pick 3
 
 - [x] It is a feedback loop.
 - [ ] All Scrum Team members should participate in it.
@@ -2109,7 +2109,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are traits of a high performance Scrum Team? (pick all that apply)
+ What are traits of a high performance Scrum Team? (pick all that apply)
 
 - [x] They live the Scrum Values deeply.
 - [x] They help their customers become more successful.
@@ -2119,7 +2119,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who knows best about how to create usable and releasable Increments?
+ Who knows best about how to create usable and releasable Increments?
 
 - [x] The Developers.
 - [ ] The Scrum Master.
@@ -2128,14 +2128,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn't use.
+ True or False: Interface Segregation principle implies that a client should never be forced to implement an interface that it doesn't use.
 
 - [ ] False.
 - [x] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
+ Who is responsible for the Product Backlog Items and tasks estimation in Scrum?
 
 - [ ] The Product Owner.
 - [ ] The Scrum Master.
@@ -2144,7 +2144,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### How do the Developers divide into multiple teams in scaled Scrum?
+ How do the Developers divide into multiple teams in scaled Scrum?
 
 - [ ] The top Management divides them.
 - [x] The Developers divide themselves.
@@ -2153,7 +2153,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What should the Developers do when there is no standard contract to create a releasable Product?
+ What should the Developers do when there is no standard contract to create a releasable Product?
 
 - [ ] Ask the Product Owner to make a Definition of Done.
 - [ ] Ask Project Manager to help them.
@@ -2162,14 +2162,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
+ True or False: Through the Sprint Review, the Scrum Team tries to hand-off the Increment to the Customer formally.
 
 - [x] False.
 - [ ] True.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which Scrum Values are adhered by not building Product Backlog Items that have low business value? Pick 3
+ Which Scrum Values are adhered by not building Product Backlog Items that have low business value? Pick 3
 
 - [x] Courage.
 - [x] Respect.
@@ -2179,7 +2179,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which one is true about Design Patterns?
+ Which one is true about Design Patterns?
 
 - [x] Is a general, reusable solution to a commonly occurring problem within a given context in Software Design.
 - [ ] Is a low-fidelity UI pattern that can be called sketch.
@@ -2188,7 +2188,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which Scrum events can use more time rather than their time-box if there are 9 Developers (the maximum Developers size) in the Team?
+ Which Scrum events can use more time rather than their time-box if there are 9 Developers (the maximum Developers size) in the Team?
 
 - [ ] The Daily Scrum.
 - [ ] The Sprint Retrospective.
@@ -2197,7 +2197,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Product Backlog Items are refined by:
+ Product Backlog Items are refined by:
 
 - [ ] The Business Analyst and the Product Owner.
 - [ ] The Developers.
@@ -2206,7 +2206,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Select the desirable characteristics of a Unit Test. (choose the best four answers)
+ Select the desirable characteristics of a Unit Test. (choose the best four answers)
 
 - [x] Code in each test is as small as possible while maintaining readability of the code.
 - [x] Each test is independent of other Unit Tests.
@@ -2216,7 +2216,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Should User Stories be part of the documentation generated by a Scrum project?
+ Should User Stories be part of the documentation generated by a Scrum project?
 
 - [ ] Always.
 - [ ] If the Architect requires it.
@@ -2226,7 +2226,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Definition of Done describes the work that must be completed for every Product Backlog Item before it can be deemed releasable. What should the Developers do when, during the Sprint, it finds out that a problem outside of their control blocks them from doing all this work?
+ The Definition of Done describes the work that must be completed for every Product Backlog Item before it can be deemed releasable. What should the Developers do when, during the Sprint, it finds out that a problem outside of their control blocks them from doing all this work?
 
 - [ ] Cancel the Sprint.
 - [ ] Complete the work that can be done on as much scope as possible and complete the rest during the "hardening" Sprints at the end of the release.
@@ -2236,7 +2236,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### To refine Product Backlog Items, the following activities will occur implicitly or explicitly: (choose all that apply)
+ To refine Product Backlog Items, the following activities will occur implicitly or explicitly: (choose all that apply)
 
 - [x] Analysis.
 - [x] Decomposition.
@@ -2246,21 +2246,21 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Only technical writers can create documentation during a Sprint.
+ True or False: Only technical writers can create documentation during a Sprint.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The Scrum Team should choose at least one high priority process improvement, identified during the Sprint Retrospective, and place it in the Product Backlog.
+ True or False: The Scrum Team should choose at least one high priority process improvement, identified during the Sprint Retrospective, and place it in the Product Backlog.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are reasons to automate the Software build process? (choose the best two answers)
+ What are reasons to automate the Software build process? (choose the best two answers)
 
 - [x] Automation improves the quality of Software by making builds less error-prone.
 - [ ] Code Reviews are much faster if you automate your build.
@@ -2269,7 +2269,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are some shortcomings of Code Coverage as a measurement for how well a system or Product is tested? (choose the best three answers)
+ What are some shortcomings of Code Coverage as a measurement for how well a system or Product is tested? (choose the best three answers)
 
 - [x] Code Coverage does not ensure that the most important or highest risk areas of the code are being exercised by tests.
 - [x] Code Coverage does not necessarily provide functional coverage.
@@ -2279,7 +2279,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are three advantages of Continuous Integration? (choose the best three answers)
+ What are three advantages of Continuous Integration? (choose the best three answers)
 
 - [x] Broken builds are detected quickly.
 - [x] Know immediately how a check-in affected the build.
@@ -2288,7 +2288,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are ways the Developers can ensure a good Application Architecture? (choose the best two answers)
+ What are ways the Developers can ensure a good Application Architecture? (choose the best two answers)
 
 - [ ] The Developers don't need an architecture model in Scrum and should focus on adding functionality. The architecture will come into place without fail as the Developers adds functionality.
 - [ ] The Developers plans a Sprint 0 at the beginning of a project with the objective of developing an architecture model used during the following Sprints.
@@ -2298,7 +2298,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What does a test written with Test Driven Development represent?
+ What does a test written with Test Driven Development represent?
 
 - [ ] A bug that will be uncovered.
 - [x] A technical requirement that must be satisfied.
@@ -2307,7 +2307,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What does Code Coverage show?
+ What does Code Coverage show?
 
 - [x] Code being exercised by tests.
 - [ ] The absence of defects in code.
@@ -2317,7 +2317,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is a Unit Test?
+ What is a Unit Test?
 
 - [ ] A technique for ensuring that units of co-dependent or clustered computers perform correctly.
 - [x] A test that isolates and verifies individual units of source code.
@@ -2326,7 +2326,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is Code Coverage?
+ What is Code Coverage?
 
 - [ ] An insurance policy that covers the code for defects.
 - [x] The degree to which the system under test has been exercised by tests.
@@ -2335,7 +2335,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is NOT Test Driven Development?
+ What is NOT Test Driven Development?
 
 - [x] A predictable way to develop working, clean code.
 - [ ] A Software Development technique based on automated tests.
@@ -2344,7 +2344,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is Pair Programming?
+ What is Pair Programming?
 
 - [ ] A Developer and a Tester work together to write and test code.
 - [ ] Managers doing performance reviews by comparing one programmer's code to another's.
@@ -2354,7 +2354,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is Technical Debt?
+ What is Technical Debt?
 
 - [x] A term representing the eventual consequences of poor technical choices.
 - [ ] Code that has not been commented or documented.
@@ -2363,7 +2363,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the value of Refactoring code?
+ What is the value of Refactoring code?
 
 - [ ] To have all code in a single file for easy printing and Code Reviews.
 - [x] To improve readability and maintainability.
@@ -2372,7 +2372,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What relationship does Scrum have to technical practices?
+ What relationship does Scrum have to technical practices?
 
 - [ ] All technical practices must be used to support Scrum.
 - [x] Developers with excellent technical practices will likely be more successful.
@@ -2381,7 +2381,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When are Testers and quality experts ideally included in a project?
+ When are Testers and quality experts ideally included in a project?
 
 - [ ] After Developer handoff.
 - [ ] After Sprint Review.
@@ -2390,7 +2390,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When do the Developers participate in Product Backlog Refinement?
+ When do the Developers participate in Product Backlog Refinement?
 
 - [x] Anytime during the Sprint.
 - [ ] As Part 1 of the Sprint Planning meeting.
@@ -2399,7 +2399,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When is a System's Architecture decided?
+ When is a System's Architecture decided?
 
 - [ ] In the beginning of the project, during Sprint 0.
 - [ ] It is designed along with the vision, before the first Sprint.
@@ -2408,7 +2408,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which are attributes of a good bug report? (choose all that apply)
+ Which are attributes of a good bug report? (choose all that apply)
 
 - [x] Build/version where bug was found.
 - [x] Clear title and proper grammar in report.
@@ -2419,7 +2419,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which are potential benefits of Test Driven Development? (choose all that apply)
+ Which are potential benefits of Test Driven Development? (choose all that apply)
 
 - [x] It causes you to construct a test harness that can be automated.
 - [x] It improves quality and reduces bugs.
@@ -2428,7 +2428,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which describes the practice of expressing requirements as Acceptance Tests?
+ Which describes the practice of expressing requirements as Acceptance Tests?
 
 - [x] Acceptance Test Driven Development.
 - [ ] Object Driven Requirements Definition.
@@ -2437,7 +2437,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is a benefit of establishing naming standards for code?
+ Which is a benefit of establishing naming standards for code?
 
 - [ ] To communicate the name of the Developer that worked on the code.
 - [ ] To ensure that "orphan functions" are not created.
@@ -2446,7 +2446,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are benefits of Continuous Integration? (choose the best two answers)
+ Which of the following are benefits of Continuous Integration? (choose the best two answers)
 
 - [x] Causes team members to consider each other's work and context.
 - [ ] It eliminates bugs completely.
@@ -2455,7 +2455,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are NOT metrics of Code Quality? (choose all that apply)
+ Which of the following are NOT metrics of Code Quality? (choose all that apply)
 
 - [ ] Class Coupling.
 - [x] Code Coverage.
@@ -2465,7 +2465,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following best describes Continuous Integration?
+ Which of the following best describes Continuous Integration?
 
 - [ ] A Software Development practice that continuously integrates feedback from users into Software Design.
 - [ ] A Software Development practice used by Integration Teams to create Best Practice branching and merging strategies.
@@ -2474,7 +2474,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following describe an Architecture Spike?
+ Which of the following describe an Architecture Spike?
 
 - [ ] A decision made by a Systems Architect to settle disagreement within the Developers.
 - [ ] A fundamental architectural problem found in an existing application.
@@ -2483,7 +2483,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement describes how often the build should be executed?
+ Which statement describes how often the build should be executed?
 
 - [ ] As often as possible, and certainly prior to the end of the Sprint.
 - [ ] Once per day.
@@ -2492,7 +2492,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement describes Test First Development (TFD)?
+ Which statement describes Test First Development (TFD)?
 
 - [x] Designing tests before satisfying them.
 - [ ] Having the Tester in the Developers write the test plans before coding.
@@ -2501,7 +2501,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statements describe why automated builds are important? (choose the best three answers)
+ Which statements describe why automated builds are important? (choose the best three answers)
 
 - [x] They allow frequent validation of the unit of Software being worked on, ensuring it remains in a potentially shippable state.
 - [x] The build process is clearly defined and scripted, making it easy consistent and repeatable.
@@ -2511,7 +2511,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### While changing Software, you find a bug in a previously delivered piece of functionality. What should you do?
+ While changing Software, you find a bug in a previously delivered piece of functionality. What should you do?
 
 - [ ] Fix the bug.
 - [x] Fix the bug if it is critical or easily fixed. Otherwise, put the new bug into the Product Backlog to be prioritized and fixed in an upcoming Sprint.
@@ -2520,7 +2520,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is responsible for the System Architecture of a Product being developed using Scrum?
+ Who is responsible for the System Architecture of a Product being developed using Scrum?
 
 - [ ] The Architect chosen by the Developers.
 - [ ] The Corporate Architect.
@@ -2529,7 +2529,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who must be present at the Daily Scrum meeting?
+ Who must be present at the Daily Scrum meeting?
 
 - [ ] Anyone who wants to attend.
 - [ ] No one is required, anyone who wishes to attend is welcome.
@@ -2539,7 +2539,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who should be present during Product Backlog Refinement? (choose all that apply)
+ Who should be present during Product Backlog Refinement? (choose all that apply)
 
 - [ ] Only the most senior people from the Developers.
 - [x] The Developers.
@@ -2550,7 +2550,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
+ You are on a Scrum Team that is enhancing an existing Product. Which is the LEAST useful piece of documentation you want to have at your disposal?
 
 - [ ] Acceptance Tests.
 - [ ] Detailed designs.
@@ -2559,14 +2559,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: Test Driven Development is a predictable way to develop working, well-organized code?
+ True or False: Test Driven Development is a predictable way to develop working, well-organized code?
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Scrum Team should have all the skills needed to: (choose the best answer)
+ The Scrum Team should have all the skills needed to: (choose the best answer)
 
 - [ ] Do all of the development work, except for specialized testing that requires additional tools and environments.
 - [ ] Complete the project within the date and cost as calculated by the Product Owner.
@@ -2574,7 +2574,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who determines when it is appropriate to update the Sprint Backlog during a Sprint? (choose the best answer)
+ Who determines when it is appropriate to update the Sprint Backlog during a Sprint? (choose the best answer)
 
 - [ ] The Scrum Team.
 - [ ] The Project Manager.
@@ -2583,7 +2583,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the Scrum Master responsible for during the Sprint Retrospective? (choose the best answer)
+ What is the Scrum Master responsible for during the Sprint Retrospective? (choose the best answer)
 
 - [ ] Summarizing and reporting the discussions to management.
 - [ ] Acting as a scribe to capture the Scrum Team's answers.
@@ -2592,7 +2592,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The right time to refactor code using Test Driven Development is: (choose the best answer)
+ The right time to refactor code using Test Driven Development is: (choose the best answer)
 
 - [ ] When I can see the "debt" building in the code.
 - [ ] When preparing legacy code for unit tests.
@@ -2601,7 +2601,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When should Product Backlog refinement occur? (choose the best answer)
+ When should Product Backlog refinement occur? (choose the best answer)
 
 - [x] Anytime the Scrum Team feels Product Backlog items require more precision.
 - [ ] Always prior to Sprint Planning.
@@ -2610,7 +2610,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Why is architectural layering important for emergent systems? (choose the best three answers)
+ Why is architectural layering important for emergent systems? (choose the best three answers)
 
 - [x] Layering makes it easier to reuse functionality.
 - [ ] Layering assigns clear responsibilities to individual Developers.
@@ -2619,7 +2619,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Is it a good idea to follow each automated build with the execution of automated tests?
+ Is it a good idea to follow each automated build with the execution of automated tests?
 
 - [ ] Yes. Code Coverage can be used to assess progress.
 - [ ] No. Automated tests should be executed when the implementation of a Product Backlog item is complete.
@@ -2628,7 +2628,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is Pair Programming? (choose the best answer)
+ What is Pair Programming? (choose the best answer)
 
 - [ ] Developers that are able to write code both in the back-end and the front-end.
 - [x] Two Developers working on the same problem, at the same computer (physically or virtually), at the same time.
@@ -2637,7 +2637,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are the top three benefits of a good Definition of Done? (choose the best three answers)
+ What are the top three benefits of a good Definition of Done? (choose the best three answers)
 
 - [x] Clear Communication of the Scrum Team's quality standards.
 - [x] A fully valuable, useful Increment by the end of each Sprint.
@@ -2647,7 +2647,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which best describes the practice of branching code in a version control system? (choose the best answer)
+ Which best describes the practice of branching code in a version control system? (choose the best answer)
 
 - [ ] Tagging or labelling a particular codebase as ready for distribution.
 - [x] Creating a duplicate of existing code, isolated from the original code.
@@ -2656,7 +2656,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Cyclomatic Complexity is a metric for: (choose the best answer)
+ Cyclomatic Complexity is a metric for: (choose the best answer)
 
 - [ ] Assessing if code is written in as few lines as possible.
 - [ ] A measurement for complexity based on the number of people involved.
@@ -2666,7 +2666,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Developers should have all the skills needed to: (choose the best answer)
+ The Developers should have all the skills needed to: (choose the best answer)
 
 - [ ] Complete the project as estimated when the date and cost are committed to the Product Owner.
 - [x] Turn the Product Backlog items they select into an Increment of useful and valuable product functionality.
@@ -2674,7 +2674,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which statement best describes Scrum? (choose the best answer)
+ Which statement best describes Scrum? (choose the best answer)
 
 - [x] A framework for creating complex products in complex environments.
 - [ ] A defined and predictive process that conforms to the principles of Scientific Management.
@@ -2683,7 +2683,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The timebox for a Daily Scrum is? (choose the best answer)
+ The timebox for a Daily Scrum is? (choose the best answer)
 
 - [x] 15 minutes.
 - [ ] 15 minutes for a 4-week sprint. For shorter Sprints it is usually shorter.
@@ -2693,7 +2693,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one the following answers is FALSE?
+ The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one the following answers is FALSE?
 
 - [ ] The Developers may work with the Product Owner to add or remove work if they find themselves with more or less capacity than expected.
 - [x] The Sprint Backlog is fully formulated in the Sprint Planning event and does not change during the Sprint.
@@ -2702,7 +2702,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The three pillars of empiricism are: (choose the best answer)
+ The three pillars of empiricism are: (choose the best answer)
 
 - [ ] Respect For People, Kaizen, Eliminating Waste.
 - [ ] Planning, Inspection, Adaptation.
@@ -2712,7 +2712,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the typical size for a Scrum Team? (choose the best answer)
+ What is the typical size for a Scrum Team? (choose the best answer)
 
 - [x] 10 or fewer.
 - [ ] Minimum of 7.
@@ -2721,7 +2721,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the function or purpose of Management in Scrum? (choose the best answer)
+ What is the function or purpose of Management in Scrum? (choose the best answer)
 
 - [ ] Identify and remove people that are not working hard enough.
 - [ ] Monitor the progress of the Developers on the Scrum Team.
@@ -2730,7 +2730,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the main reason for the Scrum Master to be at the Daily Scrum? (choose the best answer)
+ What is the main reason for the Scrum Master to be at the Daily Scrum? (choose the best answer)
 
 - [ ] To gather status and progress information to report to management.
 - [ ] To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.
@@ -2739,7 +2739,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)
+ Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)
 
 - [x] Develop and deliver at least one piece of functionality.
 - [ ] Develop a plan for the rest of the release.
@@ -2749,14 +2749,14 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.
+ True or False: It is mandatory that the product Increment be released to production at the end of each Sprint.
 
 - [ ] True.
 - [x] False.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When should a Developer on a Scrum Team be replaced? (choose the best answer)
+ When should a Developer on a Scrum Team be replaced? (choose the best answer)
 
 - [ ] As needed, with no special allowance for changes in productivity.
 - [ ] Every Sprint to promote shared learning.
@@ -2765,7 +2765,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Refactoring is: (choose the best answer)
+ Refactoring is: (choose the best answer)
 
 - [x] Improving your code without breaking your unit tests.
 - [ ] Increasing the amount of code.
@@ -2774,7 +2774,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Developers include which role(s)? (select all that apply)
+ Developers include which role(s)? (select all that apply)
 
 - [ ] Software Architects.
 - [ ] Business Analysts.
@@ -2783,7 +2783,7 @@ hardening Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The more code a Developer writes the better.
+ True or False: The more code a Developer writes the better.
 
 - [ ] True.
 - [x] False.
