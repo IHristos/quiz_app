@@ -1,6 +1,6 @@
 # PSD Quiz Questions App Installation Guide
-1 ### Have python installed on your machine
-  1 #### If you are not sure if python is installed, open powershell and type:
+1. ### Have python installed on your machine
+  1. #### If you are not sure if python is installed, open powershell and type:
     ```bash
     python --version
     ```
@@ -8,19 +8,19 @@
     ```bash
     python3 --version
     ```
-  2 #### Install python if it is not installed on your machine
+  2. #### Install python if it is not installed on your machine
     ```
     Official Python Download Link[](https://www.python.org/downloads/windows/)
     ```
-2 ### Install Flask on your machine through powershell
+2. ### Install Flask on your machine through powershell
   ```bash
   pip install Flask
   ```
-3 ### Open the project in your IDE and run
+3. ### Open the project in your IDE and run
   ```bash
   python app.py
   ```
-4 ### The Web App should be running on
+4. ### The Web App should be running on
   ```
   http://localhost:5000
   ```
