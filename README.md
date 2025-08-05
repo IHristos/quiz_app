@@ -1,6 +1,6 @@
 # PSD Quiz Questions App Installation Guide
 1. Have python installed on your machine
-    1. # If you are not sure if python is installed, open powershell and type:
+    1. If you are not sure if python is installed, open Powershell and type:
       ```bash
       python --version
       ```
@@ -12,11 +12,11 @@
         ```
         Official Python Download Link[](https://www.python.org/downloads/windows/)
         ```
-3. ### Install Flask on your machine through powershell
+2. ### Install Flask on your machine through powershell
     ```bash
     pip install Flask
     ```
-4. ### Open the project in your IDE and run
+3. ### Open the project in your IDE and run
   ```bash
   python app.py
   ```
