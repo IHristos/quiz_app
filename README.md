@@ -8,7 +8,7 @@
         ```bash
         python3 --version
         ```
-   2. #### Install python if it is not installed on your machine
+   2. Install python if it is not installed on your machine
         ```
         Official Python Download Link[](https://www.python.org/downloads/windows/)
         ```
