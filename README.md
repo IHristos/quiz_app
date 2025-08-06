@@ -9,7 +9,7 @@
        python3 --version
        ```
     2. Install python if it is not installed on your machine: [Official Python Download Link](https://www.python.org/downloads/windows/)
-    3. During the installation process for ***Python*** make sure to check the checkbox for including ***Python*** in the **PATH** variables
+    3. During the installation process for ***Python***, make sure to check the checkbox for including ***Python*** in the **PATH** variables
 2. Install Flask on your machine through powershell
    ```bash
    pip install Flask
