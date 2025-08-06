@@ -97,5 +97,9 @@ def retake():
 import webbrowser
 
 if __name__ == '__main__':
-    webbrowser.open("http://127.0.0.1:5000/")
+    if os.environ.get('WERKZEUG_RUN_MAIN') == 'true':
+        webbrowser.open("http://127.0.0.1:5000/")
     app.run(debug=True)
+
+
+    
