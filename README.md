@@ -19,4 +19,4 @@
    ```
 4. The Web App should be running on
    ``` http://localhost:5000 ```
-5. Or you can just run the .exe file within the **dist** directory without the need to download *Python* or *Flask*
+5. Or you can just run the .exe file within the **`dist´** directory without the need to download *Python* or *Flask*
