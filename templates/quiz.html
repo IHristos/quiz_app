@@ -58,7 +58,9 @@
     </script>
     <div class="container">
       <h1>Take Your Quiz</h1>
-      <p id="timer">30m 0s</p>
+      <div class="timer-container">
+        <p>Time left:&nbsp;<span id="timer">30m 0s</span></p>
+      </div>
       <form method="post" action="/submit" id="quiz-form">
         {% for q in questions %}
         <div class="question-block">
