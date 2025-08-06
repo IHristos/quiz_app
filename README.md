@@ -13,9 +13,10 @@
    ```bash
    pip install Flask
    ```
-4. Open the project in your IDE and run
+3. Open the project in your IDE and run
    ```bash
    python app.py
    ```
-6. The Web App should be running on
+4. The Web App should be running on
    ``` http://localhost:5000 ```
+5. Or you can just run the .exe file within the **dist** directory without the need to download *Python* or *Flask*
